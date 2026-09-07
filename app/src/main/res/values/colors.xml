@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Material 3 Palette -->
+    <color name="primary">#4F56E7</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E0E0FF</color>
+    <color name="on_primary_container">#04006D</color>
+
+    <color name="secondary">#5D5D72</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#E2E1F9</color>
+    <color name="on_secondary_container">#1A1A2C</color>
+
+    <color name="background">#F8F9FE</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1B1B21</color>
+    <color name="surface_variant">#F0F0F7</color>
+    <color name="on_surface_variant">#525266</color>
+
+    <!-- Game Card & Feedback Colors -->
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E0E0EB</color>
+    <color name="success_color">#2E7D32</color>
+    <color name="success_bg">#E8F5E9</color>
+    <color name="error_color">#C62828</color>
+    <color name="error_bg">#FFEBEE</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Numbers Game</string>
+    <string name="game_title">Numbers Game</string>
+    <string name="game_subtitle">Tap the card with the higher number!</string>
+    <string name="score_label">Score</string>
+    <string name="high_score_label">Best</string>
+    <string name="streak_label">Streak</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="feedback_correct">Great Job! 🎉</string>
+    <string name="feedback_wrong">Oops! Try Again 💀</string>
+    <string name="default_number">0</string>
+    <string name="initial_feedback">Pick a card to start playing!</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">لعبة الأرقام</string>
+    <string name="game_title">لعبة الأرقام</string>
+    <string name="game_subtitle">اضغط على البطاقة ذات الرقم الأكبر!</string>
+    <string name="score_label">النقاط</string>
+    <string name="high_score_label">الأعلى</string>
+    <string name="streak_label">التتابع</string>
+    <string name="reset_game">إعادة اللعب</string>
+    <string name="feedback_correct">ممتاز! أحسنت 🎉</string>
+    <string name="feedback_wrong">للأسف خطأ! حاول مجدداً 💀</string>
+    <string name="default_number">0</string>
+    <string name="initial_feedback">اختر بطاقة للبدء!</string>
+</resources>
