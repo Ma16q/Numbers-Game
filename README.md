@@ -71,21 +71,5 @@ Lab2/
 4. **Run on Device / Emulator**:
    - Select an emulator or connected device and press `Run` (`Shift + F10`).
 
----
 
-## 🔒 Private Repository Instructions
 
-To create a **Private Repository** on GitHub:
-
-1. Go to [GitHub New Repository](https://github.com/new).
-2. Name the repository (e.g., `NumbersGame` or `Lab2`).
-3. Select **Private**.
-4. Run the following commands in your terminal inside the project directory:
-
-```bash
-git add .
-git commit -m "Initial commit: Numbers Game with Material 3 UI"
-git branch -M main
-git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
-git push -u origin main
-```
