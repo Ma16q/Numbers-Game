@@ -34,7 +34,7 @@ A sleek, responsive Android game built with Java and Material 3 Design component
 <p align="center">
   <img src="images/Screenshot1.png" alt="Main Gameplay Screen" width="280" /> <img src="images/Screenshot2.png" alt="Main Gameplay Screen" width="280" />
 </p>
----
+
 
 ## 📁 Project Structure
 
