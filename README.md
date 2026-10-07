@@ -3,6 +3,7 @@
 A sleek, responsive Android game built with Java and Material 3 Design components. Players test their quick-thinking skills by identifying and tapping the higher number between two randomly generated cards.
 
 ---
+---
 
 ## 🚀 Features
 
@@ -27,6 +28,12 @@ A sleek, responsive Android game built with Java and Material 3 Design component
 - **Target SDK**: API 37
 - **Build System**: Gradle (Kotlin DSL / Version Catalog)
 
+---
+## 📱 Screenshots
+
+<p align="center">
+  <img src="images/Screenshot1.png" alt="Main Gameplay Screen" width="280" /> <img src="images/Screenshot2.png" alt="Main Gameplay Screen" width="280" />
+</p>
 ---
 
 ## 📁 Project Structure
